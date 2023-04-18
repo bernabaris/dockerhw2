@@ -1,10 +1,9 @@
 # dockerhw2
 docker compose file kullanımı
 
-Repository'e ait dizinin altında CLI kodunda 
+Repository'e ait dizinin altında CLI kodunda komutu çalıştırılarak uygulama build edilir ve çalıştırılır.
 
-
-'docker-compose up' komutu çalıştırılarak uygulama build edilir ve çalıştırılır.
+<h2> $ docker-compose up </h2>
 
 Compose Redis imajını çeker, koda göre build edip docker compose dosyasında tanımlanan servisleri başlatır. Build sırasında kodlar bir imaja kopyalanır.
 
